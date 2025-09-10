@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 Tính năng
-- Liệt kê danh sách tool có sẵn.
+- Liệt kê danh sách tool có sẵn. [Tại tools.json](https://github.com/tranledienlam/gui_automation/blob/main/tools.json)
 - Tự động kiểm tra repo đã **up-to-date** hay chưa.
 - Hỗ trợ **git clone** và **git pull** để tải/cập nhật tool.
 - Cho phép thay đổi **Tool Directory** và **Python Executable**.

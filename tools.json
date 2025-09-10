@@ -8,8 +8,12 @@
             "url": "https://github.com/tranledienlam/selenium_haha_wallet.git"
         },
         {
-            "name": "Test update",
-            "url": "https://github.com/tranlamcode/tool1.git"
+            "name": "selenium-membit-x",
+            "url": "https://github.com/tranledienlam/selenium-membit-x.git"
+        },
+        {
+            "name": "selenium-edgen-gg",
+            "url": "https://github.com/tranledienlam/selenium-edgen-gg.git"
         }
     ]
 }
