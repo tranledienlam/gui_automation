@@ -1,0 +1,9 @@
+{
+    "main": {
+        "times": "2025-09-10"
+    },
+    "tools": [{
+        "name": "selenium_haha_wallet",
+        "url": "https://github.com/tranledienlam/selenium_haha_wallet.git"
+    }]
+}
