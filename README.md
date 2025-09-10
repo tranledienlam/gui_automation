@@ -3,6 +3,10 @@
 **ToolManager.exe** là một ứng dụng GUI (dùng CustomTkinter) giúp bạn quản lý, tải về và cập nhật các tool từ GitHub chỉ với vài click chuột.  
 Ứng dụng sẽ tự động đồng bộ trạng thái các tool trong thư mục, cho phép **Download / Update** dễ dàng.
 
+<p align="center">
+    <img src="intro.png" alt="Giới thiệu">
+</p>
+
 ---
 
 ## 🚀 Tính năng
