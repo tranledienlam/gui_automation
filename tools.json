@@ -4,6 +4,10 @@
     },
     "tools": [
         {
+            "name": "selenium-kindredlabs-gg",
+            "url": "https://github.com/tranledienlam/selenium-kindredlabs-gg.git"
+        },
+        {
             "name": "selenium_haha_wallet",
             "url": "https://github.com/tranledienlam/selenium_haha_wallet.git"
         },
@@ -15,5 +19,6 @@
             "name": "selenium-edgen-gg",
             "url": "https://github.com/tranledienlam/selenium-edgen-gg.git"
         }
+        
     ]
 }
