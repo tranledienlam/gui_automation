@@ -4,6 +4,10 @@
     },
     "tools": [
         {
+            "name": "selenium_psy_gg",
+            "url": "https://github.com/tranledienlam/selenium_psy_gg.git"
+        },
+        {
             "name": "selenium-kindredlabs-gg",
             "url": "https://github.com/tranledienlam/selenium-kindredlabs-gg.git"
         },
