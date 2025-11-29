@@ -4,6 +4,10 @@
     },
     "tools": [
         {
+            "name": "selenium-concrete-metamask",
+            "url": "https://github.com/tranledienlam/selenium-concrete-metamask"
+        },
+        {
             "name": "selenium_psy_gg",
             "url": "https://github.com/tranledienlam/selenium_psy_gg.git"
         },
