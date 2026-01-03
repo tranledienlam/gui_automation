@@ -4,6 +4,10 @@
     },
     "tools": [
         {
+            "name": "prismax",
+            "url": "https://github.com/tranledienlam/prismax"
+        },
+        {
             "name": "selenium-ferra-bybit",
             "url": "https://github.com/tranledienlam/selenium-ferra-bybit"
         },
